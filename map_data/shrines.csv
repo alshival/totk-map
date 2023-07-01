@@ -1,0 +1,153 @@
+Shrine Name,Lightroot Name,Title,Type,Location,Region,Map Layer,In Cave?,Shrine Quest,X,Y,Height,Lightroot X,Lightroot Y,Lightroot Height,Shrine Name (Japanese),Lightroot Name (Japanese),ActorName,Lightroot ActorName
+Ukouh Shrine,-,The Ability to Create,Puzzle,Great Sky Island,Central Hyrule Sky,Sky,No,-,275,-913,1474,-,-,-,ウコウホの祠,-,Dungeon060,-
+Gutanbac Shrine,-,The Ability to Rise,Puzzle,Great Sky Island,Central Hyrule Sky,Sky,No,-,709,-1383,1599,-,-,-,グタンバチの祠,-,Dungeon061,-
+In-isa Shrine,-,The Ability to Combine,Puzzle,Great Sky Island,Central Hyrule Sky,Sky,No,-,26,-1504,1423,-,-,-,インイサの祠,-,Dungeon062,-
+Nachoyah Shrine,-,The Ability to Rewind,Puzzle,Great Sky Island,Central Hyrule Sky,Sky,No,-,390,-1661,2313,-,-,-,ナチョヤハの祠,-,Dungeon063,-
+Sinatanika Shrine,Akinatanis Lightroot,Combat Training: Sneakstrike,Combat Training,Akkala Highlands,Akkala,Surface,No,-,3842,2300,62,3841,2300,-508,シナタニカカの祠,カカニタナシの根,Dungeon129,CheckPoint129
+Rasitakiwak Shrine,Kawikatisar Lightroot,Proving Grounds: Vehicles,Proving Grounds,Akkala Highlands,Akkala,Surface,No,-,4167,1323,243,4167,1322,-694,ラシタキワカの祠,カワキタシラの根,Dungeon080,CheckPoint080
+Gemimik Shrine,Kimimeg Lightroot,Turbine Power,Puzzle,Akkala Highlands,Akkala,Surface,No,-,4513,2116,16,4512,2115,-474,ゲミミカの祠,カミミゲの根,Dungeon018,CheckPoint018
+Domizuin Shrine,Niuzimod Lightroot,A Prone Pathway,Puzzle,Akkala Highlands,Akkala,Surface,No,-,3305,1443,440,3304,1443,-811,ドミズイノの祠,ノイズミドの根,Dungeon051,CheckPoint051
+Gatanisis Shrine,Sisinatag Lightroot,A Well-Timed Bounce,Puzzle,Akkala Highlands,Akkala,Surface,No,-,4498,826,110,4497,827,-556,ガタニシシの祠,シシニタガの根,Dungeon143,CheckPoint143
+Jochi-ihiga Shrine,Agihi-ihcoj Lightroot,Rauru's Blessing,Rauru's Blessing,Akkala Highlands,Akkala,Surface,No,Rock for Sale,3811,1219,105,3812,1219,-557,ジョチイヒガの祠,ガヒイチョジの根,Dungeon134,CheckPoint134
+Rasiwak Shrine,Kawisar Lightroot,Flotational Brilliance,Puzzle,Akkala Sea,Akkala,Surface,No,-,4664,3263,16,4664,3264,-474,ラシワカの祠,カワシラの根,Dungeon139,CheckPoint139
+Igashuk Shrine,Kuhsagi Lightroot,Rauru's Blessing,Rauru's Blessing,Akkala Sea,Akkala,Surface,No,-,4655,3714,145,4655,3732,-400,イガシュクの祠,クユシガイの根,Dungeon090,CheckPoint090
+Jochi-iu Shrine,Ui-ihcoj Lightroot,Courage to Pluck,Puzzle,Deep Akkala,Akkala,Surface,No,-,4347,2876,179,4347,2877,-629,ジョチイウの祠,ウイチョジの根,Dungeon001,CheckPoint001
+Kamatukis Shrine,Sikutamak Lightroot,A Precise Strike,Puzzle,Deep Akkala,Akkala,Surface,No,-,3431,3357,85,3431,3358,-541,カマツキサの祠,サキツマカの根,Dungeon044,CheckPoint044
+Musanokir Shrine,Rikonasum Lightroot,Swing to Hit,Puzzle,Great Hyrule Forest,Central Hyrule,Surface,No,-,408,2134,158,407,2134,-613,ムサノキラの祠,ラキノサムの根,Dungeon005,CheckPoint005
+Kiuyoyou Shrine,Uoyoyuik Lightroot,Fire and Ice,Puzzle,Great Hyrule Forest,Central Hyrule,Surface,No,-,-1107,2088,118,-1107,2089,-574,キウヨヨウの祠,ウヨヨウキの根,Dungeon030,CheckPoint030
+Ekochiu Shrine,Uihcoke Lightroot,Rise and Fall,Puzzle,Great Hyrule Forest,Central Hyrule,Surface,No,-,1063,1280,60,1063,1281,-516,エコチウの祠,ウチコエの根,Dungeon031,CheckPoint031
+Kikakin Shrine,Nikakik Lightroot,Shining in Darkness,Puzzle,Great Hyrule Forest,Central Hyrule,Surface,No,-,-396,2736,302,-397,2735,-746,キカクンの祠,クカキの根,Dungeon053,CheckPoint053
+Ninjis Shrine,Sijnin Lightroot,Rauru's Blessing,Rauru's Blessing,Great Hyrule Forest,Central Hyrule,Surface,No,Maca's Special Place,355,1892,193,355,1893,-646,ニンジシの祠,シジンニの根,Dungeon106,CheckPoint106
+Sakunbomar Shrine,Ramobnukas Lightroot,Rauru's Blessing,Rauru's Blessing,Great Hyrule Forest,Central Hyrule,Surface,No,None Shall Pass?,167,2320,193,167,2321,-646,セクンボマラの祠,ラマボンクセの根,Dungeon108,CheckPoint108
+Pupunke Shrine,Eknupup Lightroot,Rauru's Blessing,Rauru's Blessing,Great Hyrule Forest,Central Hyrule,Surface,No,A Pretty Stone and Five Golden Apples,621,2211,179,622,2211,-632,ププンケの祠,ケンププの根,Dungeon115,CheckPoint115
+Yamiyo Shrine,Oyimay Lightroot,Combat Training: Throwing,Combat Training,Hyrule Field,Central Hyrule,Surface,No,-,333,470,43,334,469,-500,オヤミオの祠,オミヤオの根,Dungeon123,CheckPoint123
+Teniten Shrine,Netinet Lightroot,Combat Training: Throwing,Combat Training,Hyrule Field,Central Hyrule,Surface,No,-,-75,-1116,35,-74,-1116,-492,テンジテンの祠,テジンテの根,Dungeon124,CheckPoint124
+Kyononis Shrine,Sinonoyk Lightroot,Combat Training,Combat Training,Hyrule Field,Central Hyrule,Surface,No,-,-205,451,35,-204,451,-493,キョノニシウの祠,ウシニノヨキの根,Dungeon136,CheckPoint136
+Kamizun Shrine,Nuzimak Lightroot,Proving Grounds: Beginner,Proving Grounds,Hyrule Field,Central Hyrule,Surface,No,-,-178,-1558,37,-179,-1559,-494,カミズナの祠,ナズミカの根,Dungeon077,CheckPoint077
+Jojon Shrine,Nojoj Lightroot,Proving Grounds: Rotation,Proving Grounds,Hyrule Field,Central Hyrule,Surface,Yes,-,1202,330,41,1201,330,-595,ジョジョニウの祠,ウニョジョジの根,Dungeon084,CheckPoint084
+Tajikats Shrine,Stakijat Lightroot,Building with Logs,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,344,-1009,31,343,-1008,-489,タジカツの祠,ツカジタの根,Dungeon000,CheckPoint000
+Mayachin Shrine,Nihcayam Lightroot,A Fixed Device,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,-706,-869,46,-706,-868,-501,マヤチノウの祠,ウノチヤマの根,Dungeon004,CheckPoint004
+Ren-iz Shrine,Zi-ner Lightroot,Jump the Gaps,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,756,824,96,757,824,-552,レンイゼの祠,ゼインレの根,Dungeon006,CheckPoint006
+Serutabomac Shrine,Camobatures Lightroot,The Way Up,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,-179,1170,294,-178,1170,-536,セルタボマチの祠,チマボタルセの根,Dungeon010,CheckPoint010
+Sinakawak Shrine,Kawakanis Lightroot,An Uplifting Device,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,-1415,757,103,-1416,757,-559,シナカワカの祠,カワカナシの根,Dungeon020,CheckPoint020
+Riogok Shrine,Kogoir Lightroot,Force Transfer,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,-1441,-1616,103,-1442,-1616,-559,リオゴコの祠,コゴオリの根,Dungeon026,CheckPoint026
+Ishodag Shrine,Gadohsi Lightroot,A Windy Device,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,-879,423,63,-879,423,-518,イショダグンの祠,グダヨシイの根,Dungeon029,CheckPoint029
+Tadarok Shrine,Koradat Lightroot,Fire and Water,Puzzle,Hyrule Field,Central Hyrule,Surface,Yes,-,-1082,-2187,143,-1081,-2186,-582,タダロクンの祠,クロダタの根,Dungeon032,CheckPoint032
+Tsutsu-um Shrine,Mu-ustust Lightroot,The Stakes Guide You,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,-1423,-1351,82,-1423,-1352,-538,ツツウメの祠,メウツツの根,Dungeon042,CheckPoint042
+Sepapa Shrine,Apapes Lightroot,Backtrack,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,222,1085,42,221,1084,-495,セパパの祠,パパセの根,Dungeon046,CheckPoint046
+Susuyai Shrine,Iayusus Lightroot,A Spinning Device,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,-785,-434,32,-785,-433,-490,ススヤイの祠,イヤススの根,Dungeon048,CheckPoint048
+Kyokugon Shrine,Nogukoyk Lightroot,Alignment of the Circles,Puzzle,Hyrule Field,Central Hyrule,Surface,Yes,-,-709,-1551,20,-708,-1551,-538,キョクゴニの祠,ニゴクヨキの根,Dungeon068,CheckPoint068
+Jiosin Shrine,Nisoij Lightroot,Shape Rotation,Puzzle,Hyrule Field,Central Hyrule,Surface,No,-,-241,-371,41,-240,-372,-499,ジオシニオの祠,オニシオジの根,Dungeon142,CheckPoint142
+Tenmaten Shrine,Netamnet Lightroot,Rauru's Blessing,Rauru's Blessing,Hyrule Field,Central Hyrule,Surface,Yes,-,-595,1551,,-595,1550,-620,テンマテンの祠,テマンテの根,Dungeon133,CheckPoint133
+Makurukis Shrine,Sikurukam Lightroot,Combat Training: Archery,Combat Training,Hyrule Ridge,Central Hyrule,Surface,No,-,-2847,630,248,-2846,630,-642,マクルキサの祠,サキルクマの根,Dungeon126,CheckPoint126
+Sonapan Shrine,Napanos Lightroot,Missing Pathways,Puzzle,Hyrule Ridge,Central Hyrule,Surface,No,-,-1922,-359,243,-1922,-360,-656,ソナパノの祠,ノパナソの根,Dungeon059,CheckPoint059
+Runakit Shrine,Tikanur Lightroot,Built to Carry,Puzzle,Hyrule Ridge,Central Hyrule,Surface,No,-,-2530,1170,192,-2529,1170,-644,ルナキタの祠,タキナルの根,Dungeon065,CheckPoint065
+Taki-ihaban Shrine,Nabahi-ikat Lightroot,Rauru's Blessing,Rauru's Blessing,Hyrule Ridge,Central Hyrule,Surface,Yes,-,-1830,1195,162,-1829,1196,-744,タキイハバノの祠,ノバハイキタの根,Dungeon091,CheckPoint091
+Usazum Shrine,Muzasu Lightroot,Rauru's Blessing,Rauru's Blessing,Hyrule Ridge,Central Hyrule,Surface,No,The Satori Mountain Crystal,-2139,-874,108,-2138,-875,-563,ウサズマの祠,マズサウの根,Dungeon100,CheckPoint100
+En-oma Shrine,Amo-ne Lightroot,Rauru's Blessing,Rauru's Blessing,Lake Hylia,Central Hyrule,Surface,No,The Lake Hylia Crystal,103,-2518,-74,103,-2519,-435,エンオマの祠,マオンエの根,Dungeon092,CheckPoint092
+Sitsum Shrine,Mustis Lightroot,A Controlling Device,Puzzle,Death Mountain,Eldin,Surface,No,-,2369,2596,804,2368,2597,-969,シツモイの祠,イモツシの根,Dungeon002,CheckPoint002
+Isisim Shrine,Misisi Lightroot,Proving Grounds: In Reverse,Proving Grounds,Eldin Canyon,Eldin,Surface,Yes,-,1842,2842,378,1842,2843,-859,イシシメの祠,メシシイの根,Dungeon073,CheckPoint073
+Mayachideg Shrine,Gedihcayam Lightroot,Proving Grounds: The Hunt,Proving Grounds,Eldin Canyon,Eldin,Surface,No,-,3061,1824,230,3061,1825,-683,マヤチデギナの祠,ナギデチヤマの根,Dungeon074,CheckPoint074
+Kimayat Shrine,Tayamik Lightroot,Proving Grounds: Smash,Proving Grounds,Eldin Canyon,Eldin,Surface,No,-,2864,3638,255,2865,3639,-706,キマヤタの祠,タヤマキの根,Dungeon088,CheckPoint088
+Kisinona Shrine,Anonisik Lightroot,Wind Power,Puzzle,Eldin Canyon,Eldin,Surface,No,-,2568,1246,187,2568,1247,-621,キシノナの祠,ナノシキの根,Dungeon035,CheckPoint035
+Sibajitak Shrine,Katijabis Lightroot,Alignment,Puzzle,Eldin Canyon,Eldin,Surface,No,-,2400,3275,417,2401,3276,-865,シバジタキオの祠,オキタジバシの根,Dungeon054,CheckPoint054
+Marakuguc Shrine,Cugukaram Lightroot,Wheeled Wonders,Puzzle,Eldin Canyon,Eldin,Surface,No,-,1762,2510,451,1763,2511,-740,マラクグチの祠,チグクラマの根,Dungeon064,CheckPoint064
+Timawak Shrine,Kawamit Lightroot,Against the Flow,Puzzle,Eldin Canyon,Eldin,Surface,No,-,1800,1640,326,1800,1640,-770,ティマワカの祠,カワマイテの根,Dungeon137,CheckPoint137
+Momosik Shrine,Kisomom Lightroot,Rauru's Blessing,Rauru's Blessing,Eldin Canyon,Eldin,Surface,No,The Death Caldera Crystal,2960,2758,538,2961,2758,-984,モモシカの祠,カシモモの根,Dungeon089,CheckPoint089
+Moshapin Shrine,Nipahsom Lightroot,Rauru's Blessing,Rauru's Blessing,Eldin Canyon,Eldin,Surface,No,The Lake Intenoch Cave Crystal,2679,1904,145,2680,1904,-709,モシャピンの祠,ピャシモの根,Dungeon098,CheckPoint098
+Jiotak Shrine,Katoij Lightroot,Rauru's Blessing,Rauru's Blessing,Eldin Canyon,Eldin,Surface,Yes,-,1834,3180,272,1835,3181,-858,ジオタキオの祠,オキタオジの根,Dungeon102,CheckPoint102
+Mayak Shrine,Kayam Lightroot,Timely Catches,Puzzle,Eldin Mountains,Eldin,Surface,No,-,1270,3733,120,1269,3733,-574,マヤココの祠,ココヤマの根,Dungeon017,CheckPoint017
+Sikukuu Shrine,Uukukis Lightroot,Spinning Gears,Puzzle,Eldin Mountains,Eldin,Surface,No,-,699,2793,240,698,2793,-692,シククチの祠,チククシの根,Dungeon023,CheckPoint023
+Minetak Shrine,Katenim Lightroot,Rauru's Blessing,Rauru's Blessing,Eldin Mountains,Eldin,Surface,Yes,-,394,3485,83,394,3484,-615,ミネタカカの祠,カカタネミの根,Dungeon147,CheckPoint147
+Jiukoum Shrine,Muokuij Lightroot,Built for Rails,Puzzle,Faron Grasslands,Faron,Surface,No,-,868,-2278,155,868,-2277,-577,ジウコウメの祠,メウコウジの根,Dungeon013,CheckPoint013
+Utsushok Shrine,Kohsustu Lightroot,Long or Wide,Puzzle,Faron Grasslands,Faron,Surface,No,-,670,-3358,86,671,-3358,-504,ウツショキの祠,キョシツウの根,Dungeon056,CheckPoint056
+Ishokin Shrine,Nikohsi Lightroot,Rauru's Blessing,Rauru's Blessing,Faron Grasslands,Faron,Surface,No,Ride the Giant Horse,-565,-3524,143,-564,-3524,-595,イショキンの祠,キョシイの根,Dungeon131,CheckPoint131
+Miryotanog Shrine,Gonatoyrim Lightroot,Proving Grounds: Lure,Proving Grounds,Gerudo Desert,Gerudo,Surface,No,-,-4680,-3086,69,-4681,-3086,-524,ミリョタニゴの祠,ゴニタヨリミの根,Dungeon087,CheckPoint087
+Soryotanog Shrine,Gonatoyros Lightroot,Buried Light,Puzzle,Gerudo Desert,Gerudo,Surface,No,-,-3882,-2963,137,-3883,-2963,-455,ソリョタニゴの祠,ゴニタヨリソの根,Dungeon016,CheckPoint016
+Siwakama Shrine,Amakawis Lightroot,Moving the Spheres,Puzzle,Gerudo Desert,Gerudo,Surface,No,-,-2446,-3344,56,-2440,-3343,-486,シワカマの祠,マカワシの根,Dungeon024,CheckPoint024
+Karahatag Shrine,Gataharak Lightroot,Drifting Flame,Puzzle,Gerudo Desert,Gerudo,Surface,No,-,-3728,-3625,58,-3729,-3625,-515,カラハタギの祠,ギタハラカの根,Dungeon033,CheckPoint033
+Mayatat Shrine,Tatayam Lightroot,A Sliding Device,Puzzle,Gerudo Desert,Gerudo,Surface,No,-,-3291,-2512,38,-3291,-2511,-496,マヤタタの祠,タタヤマの根,Dungeon047,CheckPoint047
+Kudanisar Shrine,Rasinaduk Lightroot,Bridging the Sands,Puzzle,Gerudo Desert,Gerudo,Surface,No,-,-4167,-2143,64,-4169,-2142,-508,クダニサラの祠,ラサニダクの根,Dungeon140,CheckPoint140
+Chichim Shrine,Mihcihc Lightroot,Rauru's Blessing,Rauru's Blessing,Gerudo Desert,Gerudo,Surface,No,-,-3211,-3007,-36,-3211,-3006,-491,チチマウの祠,ウマチチの根,Dungeon104,CheckPoint104
+Irasak Shrine,Kasari Lightroot,Rauru's Blessing,Rauru's Blessing,Gerudo Desert,Gerudo,Surface,No,-,-4159,-3825,42,-4158,-3826,-499,イラサクの祠,クサライの根,Dungeon118,CheckPoint118
+Rotsumamu Shrine,Umamustor Lightroot,A Balanced Plan,Puzzle,Gerudo Highlands,Gerudo,Surface,No,-,-3407,-1363,349,-3406,-1364,-800,ロツマムの祠,ムマツロの根,Dungeon008,CheckPoint008
+Mayamats Shrine,Stamayam Lightroot,A Route for a Ball,Puzzle,Gerudo Highlands,Gerudo,Surface,No,-,-4638,-1513,467,-4638,-1512,-911,マヤマツノの祠,ノツマヤマの根,Dungeon009,CheckPoint009
+Turakamik Shrine,Kimakarut Lightroot,Hidden Metal,Puzzle,Gerudo Highlands,Gerudo,Surface,No,-,-2657,-2237,82,-2656,-2238,-509,ツラカミカの祠,カミカラツの根,Dungeon039,CheckPoint039
+Kitawak Shrine,Kawatik Lightroot,Upward and Forward,Puzzle,Gerudo Highlands,Gerudo,Surface,No,-,-1530,-2929,335,-1531,-2929,-752,キタワカの祠,カワタキの根,Dungeon058,CheckPoint058
+Otutsum Shrine,Mustuto Lightroot,Rauru's Blessing,Rauru's Blessing,Gerudo Highlands,Gerudo,Surface,No,-,-4469,-671,524,-4470,-672,-969,オツツマの祠,マツツオの根,Dungeon075,CheckPoint075
+Suariwak Shrine,Kawiraus Lightroot,Rauru's Blessing,Rauru's Blessing,Gerudo Highlands,Gerudo,Surface,No,-,-2524,-1770,146,-2525,-1770,-734,スアリワカの祠,カワリアスの根,Dungeon078,CheckPoint078
+Rakakudaj Shrine,Jadukakar Lightroot,Rauru's Blessing,Rauru's Blessing,Gerudo Highlands,Gerudo,Surface,No,The Gerudo Canyon Crystal,-2037,-1853,79,-2037,-1852,-525,ラカクダジトの祠,トジダクカラの根,Dungeon079,CheckPoint079
+Motsusis Shrine,Sisustom Lightroot,Rauru's Blessing,Rauru's Blessing,Gerudo Highlands,Gerudo,Surface,No,-,-1795,-3487,60,-1795,-3498,-478,モツシシの祠,シシツモの根,Dungeon096,CheckPoint096
+Eutoum Shrine,Muotue Lightroot,Proving Grounds: Infiltration,Proving Grounds,Hebra Mountains,Hebra,Surface,No,-,-3507,3570,401,-3508,3569,-847,エウトウメの祠,メウトウエの根,Dungeon072,CheckPoint072
+Otak Shrine,Kato Lightroot,Proving Grounds: Traps,Proving Grounds,Hebra Mountains,Hebra,Surface,Yes,-,-4391,3714,227,-4390,3714,-723,オタカカの祠,カカタオの根,Dungeon086,CheckPoint086
+Sahirow Shrine,Worihas Lightroot,Aid from Above,Puzzle,Hebra Mountains,Hebra,Surface,No,-,-3354,2386,375,-3354,2386,-823,サヒロワの祠,ワロヒサの根,Dungeon007,CheckPoint007
+Orochium Shrine,Muihcoro Lightroot,Courage to Fall,Puzzle,Hebra Mountains,Hebra,Surface,No,-,-1637,2642,253,-1638,2642,-706,オロチウムの祠,ムウチロオの根,Dungeon019,CheckPoint019
+Tauyosipun Shrine,Nupisoyuat Lightroot,Forward or Backward?,Puzzle,Hebra Mountains,Hebra,Surface,No,-,-4539,2880,277,-4538,2880,-728,タウヨシプニの祠,ニプシヨウタの根,Dungeon021,CheckPoint021
+Oshozan-u Shrine,U-nazohso Lightroot,Mallet Smash,Puzzle,Hebra Mountains,Hebra,Surface,No,-,-1404,3678,302,-1404,3678,-733,オショザンウの祠,ウンザヨシオの根,Dungeon036,CheckPoint036
+Wao-os Shrine,So-oaw Lightroot,Lever Power,Puzzle,Hebra Mountains,Hebra,Surface,Yes,The White Bird's Guidance,-4058,1990,197,-4058,1989,-695,ワオオサの祠,サオオワの根,Dungeon067,CheckPoint067
+Rutafu-um Shrine,Mu-ufatur Lightroot,Rauru's Blessing,Rauru's Blessing,Hebra Mountains,Hebra,Surface,Yes,The Northwest Hebra Cave Crystal,-2998,3102,529,-2998,3101,-1027,ルタフウメの祠,メウフタルの根,Dungeon111,CheckPoint111
+Mayaotaki Shrine,Ikatoayam Lightroot,Rauru's Blessing,Rauru's Blessing,Hebra Mountains,Hebra,Surface,No,-,-825,3535,249,-850,3535,-637,マヤオタキの祠,キタオヤマの根,Dungeon125,CheckPoint125
+Sisuran Shrine,Narusis Lightroot,Rauru's Blessing,Rauru's Blessing,Hebra Mountains,Hebra,Surface,No,The North Hebra Mountains Crystal,-2559,3354,259,-2559,3354,-711,シスラナの祠,ナラスシの根,Dungeon132,CheckPoint132
+Nouda Shrine,Aduon Lightroot,Proving Grounds: Intermediate,Proving Grounds,Tabantha Frontier,Hebra,Surface,Yes,-,-2318,2201,188,-2318,2201,-801,ノウダの祠,ダウノの根,Dungeon070,CheckPoint070
+Oromuwak Shrine,Kawumoro Lightroot,A Launching Device,Puzzle,Tabantha Frontier,Hebra,Surface,No,-,-3079,1617,257,-3078,1617,-708,オロムワカの祠,カワムロオの根,Dungeon003,CheckPoint003
+Iun-orok Shrine,Koro-nui Lightroot,The Right Roll,Puzzle,Tabantha Frontier,Hebra,Surface,Yes,-,-3539,851,-119,-3539,852,-597,イウンオロクの祠,クロオンウイの根,Dungeon014,CheckPoint014
+Turakawak Shrine,Kawakarut Lightroot,Stacking a Path,Puzzle,Tabantha Frontier,Hebra,Surface,No,-,-3498,-197,80,-3487,-215,-536,ツラカワカの祠,カワカラツの根,Dungeon025,CheckPoint025
+Mayausiy Shrine,Yisuayam Lightroot,Building Blocks,Puzzle,Tabantha Frontier,Hebra,Surface,No,-,-1167,2602,-70,-1168,2602,-371,マヤウシユの祠,ユシウヤマの根,Dungeon028,CheckPoint028
+Gasas Shrine,Sasag Lightroot,Well-Timed Cuts,Puzzle,Tabantha Frontier,Hebra,Surface,No,-,-4153,98,55,-4154,98,-510,ガササの祠,ササガの根,Dungeon037,CheckPoint037
+Gatakis Shrine,Sikatag Lightroot,Ride the Winds,Puzzle,Tabantha Frontier,Hebra,Surface,No,-,-3652,1806,183,-3653,1807,-438,ガタキサの祠,サキタガの根,Dungeon040,CheckPoint040
+Ikatak Shrine,Kataki Lightroot,Rauru's Blessing,Rauru's Blessing,Tabantha Frontier,Hebra,Surface,No,The Gisa Crater Crystal,-3951,1139,126,-3952,1140,-572,イカタクの祠,クタカイの根,Dungeon103,CheckPoint103
+Mogawak Shrine,Kawagom Lightroot,The Power of Water,Puzzle,Lanayru Great Spring,Lanayru,Surface,No,-,3300,424,126,3298,420,-770,モガワカの祠,カワガモの根,Dungeon011,CheckPoint011
+Ihen-a Shrine,A-nehi Lightroot,Midair Perch,Puzzle,Lanayru Great Spring,Lanayru,Surface,No,-,3786,578,500,3785,578,-947,イヘンアの祠,アンヘイの根,Dungeon041,CheckPoint041
+Apogek Shrine,Kegopa Lightroot,Wings on the Wind,Puzzle,Lanayru Great Spring,Lanayru,Surface,No,-,3887,-217,178,3886,-216,-629,アポゲケの祠,ケゲポアの根,Dungeon049,CheckPoint049
+Yomizuk Shrine,Kuzimoy Lightroot,Rauru's Blessing,Rauru's Blessing,Lanayru Great Spring,Lanayru,Surface,Yes,-,4413,-613,49,4413,-612,-534,ヨミズキの祠,キズミヨの根,Dungeon094,CheckPoint094
+Joniu Shrine,Uinoj Lightroot,Rauru's Blessing,Rauru's Blessing,Lanayru Great Spring,Lanayru,Surface,No,The Ralis Channel Crystal,2918,507,169,2918,508,-816,ジョニウの祠,ウニョジの根,Dungeon101,CheckPoint101
+O-ogim Shrine,Migo-o Lightroot,Rauru's Blessing,Rauru's Blessing,Lanayru Great Spring,Lanayru,Surface,Yes,The Lanayru Road Crystal,2756,-1089,114,2756,-1088,-570,オオギンの祠,ギオオの根,Dungeon112,CheckPoint112
+Kurakat Shrine,Takaruk Lightroot,Rauru's Blessing,Rauru's Blessing,Lanayru Great Spring,Lanayru,Surface,No,Dyeing to Find It,2361,-511,170,2360,-510,-610,クラカタの祠,タカラクの根,Dungeon119,CheckPoint119
+Tukarok Shrine,Korakut Lightroot,Forward Force,Puzzle,Lanayru Wetlands,Lanayru,Surface,No,-,915,-251,48,916,-252,-502,ツカロクの祠,クロカツの根,Dungeon022,CheckPoint022
+Jonsau Shrine,Uasnoj Lightroot,Deep Force,Puzzle,Lanayru Wetlands,Lanayru,Surface,No,-,1744,18,39,1743,18,-480,ジョンサウの祠,ウサンヨジの根,Dungeon138,CheckPoint138
+Morok Shrine,Korom Lightroot,A Bouncy Device,Puzzle,Lanayru Wetlands,Lanayru,Surface,No,-,1182,-779,148,1181,-779,-521,モロンクの祠,クンロモの根,Dungeon144,CheckPoint144
+Maoikes Shrine,Sekioam Lightroot,Rauru's Blessing,Rauru's Blessing,Lanayru Wetlands,Lanayru,Surface,Yes,-,2276,147,93,2276,150,-522,マオイケスカの祠,カスケイオマの根,Dungeon097,CheckPoint097
+Zakusu Shrine,Usukaz Lightroot,Proving Grounds: Ascension,Proving Grounds,Mount Lanayru,Lanayru,Surface,No,The High Spring and the Light Rings,3526,-1482,182,3525,-1482,-633,ザクスクの祠,クスクザの根,Dungeon081,CheckPoint081
+Jikais Shrine,Siakij Lightroot,Jailbreak,Puzzle,Mount Lanayru,Lanayru,Surface,No,-,4267,-1673,196,4267,-1673,-649,ジカイセンの祠,セイカジの根,Dungeon057,CheckPoint057
+Sifumim Shrine,Mimufis Lightroot,Proving Grounds: Flow,Proving Grounds,East Necluda,Necluda,Surface,No,-,2826,-3270,92,2825,-3269,-547,シフミミの祠,ミミフシの根,Dungeon085,CheckPoint085
+Zanmik Shrine,Kimnaz Lightroot,Scoop It Out,Puzzle,East Necluda,Necluda,Surface,No,-,3470,-2181,162,3470,-2182,-615,ザンミカカの祠,カカミンザの根,Dungeon012,CheckPoint012
+Anedamimik Shrine,Kimimadena Lightroot,A Retraced Path,Puzzle,East Necluda,Necluda,Surface,Yes,-,4232,-2178,2,4233,-2177,-542,アネダミミカの祠,カミミダネアの根,Dungeon027,CheckPoint027
+Utojis Shrine,Sijotu Lightroot,Rauru's Blessing,Rauru's Blessing,East Necluda,Necluda,Surface,No,Legend of the Soaring Spear,1218,-2543,111,1219,-2544,-633,ウトジシの祠,シジトウの根,Dungeon076,CheckPoint076
+Mayahisik Shrine,Kisihayam Lightroot,Rauru's Blessing,Rauru's Blessing,East Necluda,Necluda,Surface,Yes,-,3729,-2059,203,3728,-2059,-686,マヤヒシカの祠,カシヒヤマの根,Dungeon095,CheckPoint095
+Jogou Shrine,Uogoj Lightroot,Rauru's Blessing,Rauru's Blessing,East Necluda,Necluda,Surface,Yes,-,3346,-1187,72,3346,-1186,-631,ジョゴウの祠,ウゴヨジの根,Dungeon113,CheckPoint113
+Bamitok Shrine,Kotimab Lightroot,Rauru's Blessing,Rauru's Blessing,East Necluda,Necluda,Surface,Yes,-,3094,-3210,96,3093,-3209,-645,バミトカの祠,カトミバの根,Dungeon116,CheckPoint116
+Marari-in Shrine,Ni-iraram Lightroot,Rauru's Blessing,Rauru's Blessing,Necluda Sea,Necluda,Surface,Yes,-,4631,-3712,32,4630,-3712,-526,マヤリイナの祠,ナイリヤマの根,Dungeon114,CheckPoint114
+Eshos Shrine,Sohse Lightroot,Combat Training: Shields,Combat Training,West Necluda,Necluda,Surface,No,-,1566,-1945,172,1563,-1945,-485,エショセの祠,セヨシエの根,Dungeon122,CheckPoint122
+Makasura Shrine,Arusakam Lightroot,An Upright Device,Puzzle,West Necluda,Necluda,Surface,No,-,1770,-1052,180,1769,-1053,-629,マカスラの祠,ラスカマの根,Dungeon135,CheckPoint135
+Joju-u-u Shrine,U-u-ujoj Lightroot,Building Bridges,Puzzle,West Necluda,Necluda,Surface,No,-,1515,-3577,156,1514,-3578,-550,ジョジュウウの祠,ウウユジョジの根,Dungeon141,CheckPoint141
+Tokiy Shrine,Yikot Lightroot,Rauru's Blessing,Rauru's Blessing,West Necluda,Necluda,Surface,Yes,The Oakle's Navel Cave Crystal,2304,-2378,-15,2303,-2379,-638,トキヨウの祠,ウヨキトの根,Dungeon107,CheckPoint107
+Susub Shrine,Busus Lightroot,Rauru's Blessing,Rauru's Blessing,West Necluda,Necluda,Surface,No,-,349,-2052,-13,350,-2052,-492,ススビエの祠,エビススの根,Dungeon120,CheckPoint120
+Jochisiu Shrine,Uisihcoj Lightroot,Rauru's Blessing,Rauru's Blessing,West Necluda,Necluda,Surface,No,Keys Born of Water,931,-1903,44,930,-1904,-481,ジョチシウの祠,ウシチョジの根,Dungeon130,CheckPoint130
+Gikaku Shrine,-,Rauru's Blessing,Rauru's Blessing,Akkala Highlands Sky,Akkala Sky,Sky,No,The Sky Mine Crystal,4506,2166,1169,-,-,-,ギカクンの祠,-,Dungeon099,-
+Natak Shrine,-,Rauru's Blessing,Rauru's Blessing,Akkala Highlands Sky,Akkala Sky,Sky,No,The Sokkala Sky Crystal,3671,1484,1172,-,-,-,ナタカカの祠,-,Dungeon110,-
+Mogisari Shrine,-,Courage to Jump,Puzzle,Akkala Sea Sky,Akkala Sky,Sky,No,-,4655,3500,1025,-,-,-,モギサリの祠,-,Dungeon052,-
+Jinodok Shrine,-,Rauru's Blessing,Rauru's Blessing,Central Hyrule Sky,Central Hyrule Sky,Sky,No,The South Hyrule Sky Crystal,-1257,-1487,1022,-,-,-,ジノドカオの祠,-,Dungeon145,-
+Simosiwak Shrine,-,Proving Grounds: Lights Out,Proving Grounds,Great Hyrule Forest Sky,Central Hyrule Sky,Sky,No,-,162,1972,773,-,-,-,シモシワカの祠,-,Dungeon082,-
+Mayam Shrine,-,Rauru's Blessing,Rauru's Blessing,Great Hyrule Forest Sky,Central Hyrule Sky,Sky,No,The North Hyrule Sky Crystal,340,2815,1835,-,-,-,マヤミイの祠,-,Dungeon149,-
+Taunhiy Shrine,-,Combat Training: Archery,Combat Training,Hyrule Ridge Sky,Central Hyrule Sky,Sky,No,-,-2402,825,629,-,-,-,タウンヒヨの祠,-,Dungeon121,-
+Kadaunar Shrine,-,Water Makes a Way,Puzzle,Eldin Canyon Sky,Eldin Sky,Sky,No,-,1882,1203,1265,-,-,-,カダウナリの祠,-,Dungeon050,-
+Joku-usin Shrine,-,Proving Grounds: Short Circuit,Proving Grounds,Faron Grasslands Sky,Faron Sky,Sky,No,-,1075,-3348,800,-,-,-,ジョクウシニの祠,-,Dungeon071,-
+Joku-u Shrine,-,Rauru's Blessing,Rauru's Blessing,Faron Grasslands Sky,Faron Sky,Sky,No,-,1376,-3340,443,-,-,-,ジョクウの祠,-,Dungeon109,-
+Rakashog Shrine,-,A Reflective Device,Puzzle,Gerudo Highlands Sky,Gerudo Sky,Sky,No,-,-1715,-2119,1163,-,-,-,ラカショゴの祠,-,Dungeon015,-
+Siyamotsus Shrine,-,Unlit Blessing,Puzzle,Gerudo Highlands Sky,Gerudo Sky,Sky,No,-,-1795,-3295,1025,-,-,-,シヤモツシの祠,-,Dungeon055,-
+Mayasiar Shrine,-,Rauru's Blessing,Rauru's Blessing,Gerudo Highlands Sky,Gerudo Sky,Sky,No,-,-3547,-321,1979,-,-,-,マヤシアラの祠,-,Dungeon148,-
+Tenbez Shrine,-,Gravity and Velocity,Puzzle,Hebra Mountains Sky,Hebra Sky,Sky,No,-,-970,3535,1026,-,-,-,テンベザイの祠,-,Dungeon034,-
+Ijo-o Shrine,-,More than Defense,Puzzle,Hebra Mountains Sky,Hebra Sky,Sky,No,-,-3861,2682,717,-,-,-,イジョオの祠,-,Dungeon038,-
+Mayaumekis Shrine,-,Downward Force,Puzzle,Hebra Mountains Sky,Hebra Sky,Sky,No,-,-2948,3051,911,-,-,-,マヤウメキサの祠,-,Dungeon043,-
+Kahatanaum Shrine,-,Rauru's Blessing,Rauru's Blessing,Hebra Mountains Sky,Hebra Sky,Sky,No,-,-3296,3432,1362,-,-,-,カハタナウメの祠,-,Dungeon105,-
+Taninoud Shrine,-,Rauru's Blessing,Rauru's Blessing,Hebra Mountains Sky,Hebra Sky,Sky,No,The East Hebra Sky Crystal,-1802,3407,963,-,-,-,タニノウダの祠,-,Dungeon151,-
+Ganos Shrine,-,Rauru's Blessing,Rauru's Blessing,Tabantha Frontier Sky,Hebra Sky,Sky,No,The Tabantha Sky Crystal,-3370,467,1709,-,-,-,ガノサの祠,-,Dungeon117,-
+Ga-ahisas Shrine,-,Rauru's Blessing,Rauru's Blessing,Tabantha Frontier Sky,Hebra Sky,Sky,No,-,-3596,961,1713,-,-,-,ガアヒササの祠,-,Dungeon128,-
+Jirutagumac Shrine,-,A Flying Device,Puzzle,Lanayru Great Spring Sky,Lanayru Sky,Sky,No,-,2916,534,965,-,-,-,ジルタグマチの祠,-,Dungeon045,-
+Igoshon Shrine,-,Orbs of Water,Puzzle,Lanayru Great Spring Sky,Lanayru Sky,Sky,No,-,3481,666,1340,-,-,-,イゴションの祠,-,Dungeon069,-
+Sihajog Shrine,-,Rauru's Blessing,Rauru's Blessing,Lanayru Great Spring Sky,Lanayru Sky,Sky,No,-,4546,-846,1135,-,-,-,シハジョゴウの祠,-,Dungeon146,-
+Mayanas Shrine,-,The Ice Guides You,Puzzle,Lanayru Sea Sky,Lanayru Sky,Sky,No,The South Lanayru Sky Crystal,4613,-947,1804,-,-,-,マヤナシの祠,-,Dungeon066,-
+Yansamin Shrine,-,Proving Grounds: Low Gravity,Proving Grounds,East Necluda Sky,Necluda Sky,Sky,No,-,2351,-1783,1490,-,-,-,ヤンサミノの祠,-,Dungeon083,-
+Kumamayn Shrine,-,Rauru's Blessing,Rauru's Blessing,East Necluda Sky,Necluda Sky,Sky,No,The Necluda Sky Crystal,2857,-2856,1226,-,-,-,クママイノの祠,-,Dungeon093,-
+Josiu Shrine,-,Rauru's Blessing,Rauru's Blessing,West Necluda Sky,Necluda Sky,Sky,No,The North Necluda Sky Crystal,1758,-1208,938,-,-,-,ジョシウの祠,-,Dungeon127,-
+Ukoojisi Shrine,-,Rauru's Blessing,Rauru's Blessing,West Necluda Sky,Necluda Sky,Sky,No,The West Necluda Sky Crystal,1469,-2169,600,-,-,-,ウコオジシの祠,-,Dungeon150,-
