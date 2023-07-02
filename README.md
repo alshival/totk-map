@@ -36,31 +36,6 @@ totk_overlay = folium.raster_layers.ImageOverlay(
 2. Coordinates from the TOTK game are converted to coordinates on the Folium map using scaling functions.
 3. Data for sky towers, shrines, korok seeds, and dispensers is imported and processed.
 
-## Dependencies
-
-To run the map generation code, make sure you have the following dependencies installed:
-
-- Python 3.x
-- PIL (Python Imaging Library)
-- pandas
-- numpy
-- folium
-
-You can install the required dependencies using pip:
-
-```
-pip install pillow pandas numpy folium
-```
-
-## Usage
-
-To generate the TOTK map, follow these steps:
-
-1. Place the high-resolution background image in the `map_data` folder and name it `base_map.png`.
-2. Run the Python script `map_generator.py`.
-
-The generated map will be saved as `totk-map.html` in the same directory. You can open this HTML file in a web browser to view the TOTK map.
-
 ## License
 
 This TOTK map is made available under the [Creative Commons Attribution 1.0](https://creativecommons.org/publicdomain/zero/1.0/) license. You are free to use, modify, and distribute the map for personal or commercial purposes.
