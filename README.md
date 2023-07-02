@@ -10,7 +10,9 @@ The TOTK map includes the following layers:
 - **Shrines**: This layer displays the locations of land shrines.
 - **Korok Seeds**: This layer marks the locations of korok seeds, including both regular and sky korok seeds.
 - **Zonai Dispensers**: This layer indicates the locations of Zonai dispensers and provides information about the Zonai devices they offer.
-
+- **General Shops**: This layer marks general shops on the map. Clicking on a shop reveals information about the items for sale.
+- **Armor Shops**: This layer marks armor shops on the map. Clicking on a shop reveals information about the items for sale.
+  
 You can download the `totk-map.html` file and open it in your browser, or embed it in a site somewhere. On moble devices, it is easier to download the `totk-map.zip` file and extract it, then open the HTML file.
 
 The map above shows the location of all Korok seeds in the Legend of Zelda: Tears of the Kingdom. 
