@@ -11,6 +11,12 @@ The TOTK map includes the following layers:
 - **Korok Seeds**: This layer marks the locations of korok seeds, including both regular and sky korok seeds.
 - **Zonai Dispensers**: This layer indicates the locations of Zonai dispensers and provides information about the Zonai devices they offer.
 
+You can download the `totk-map.html` file and open it in your browser, or embed it in a site somewhere. On moble devices, it is easier to download the `totk-map.zip` file and extract it, then open the HTML file.
+
+The map above shows the location of all Korok seeds in the Legend of Zelda: Tears of the Kingdom. 
+
+The korok location data does not indicate whether a seed is on a sky island or not. A quick analysis showed that any Korok seed with height greater than 800 can be considered to be on a sky island. These seeds are represented with a blue korok seed in our map. It is entirely possible that a seed marked as being on land is somehow on a low-hanging island. Keep that in mind when using this map.
+
 Thank you to Phil, Aeon, and SuperSpazzy for the [Data Source](https://docs.google.com/spreadsheets/d/1fBvQ17WHP3ASgtO8ode_rf1g4DfEHErMrHwwLppNTJM/edit?usp=sharing).
 
 # Map Generation
