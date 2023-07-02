@@ -10,7 +10,7 @@ The TOTK map includes the following layers:
 - **Sky Towers**: This layer shows the locations of sky towers on the map.
 - **Shrines**: This layer displays the locations of land shrines.
 - **Korok Seeds**: This layer marks the locations of korok seeds, including both regular and sky korok seeds.
-- **Zonai Dispensers**: This layer indicates the locations of Zonai dispensers and provides information about the Zonai devices they offer.
+- **Zonai Dispensers**: This layer indicates the locations of Zonai dispensers. Clicking on a dispenser provides information about the Zonai devices they offer.
 - **General Shops**: This layer marks general shops on the map. Clicking on a shop reveals information about the items for sale.
 - **Armor Shops**: This layer marks armor shops on the map. Clicking on a shop reveals information about the items for sale.
   
