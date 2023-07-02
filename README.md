@@ -1,6 +1,6 @@
 # Legend of Zelda: Tears of the Kingdom Map
 
-![TOTK Map](map_sample.png)
+![TOTK Map](store_sample.png)
 
 ## Map Layers
 
