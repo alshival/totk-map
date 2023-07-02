@@ -1,4 +1,5 @@
 # Legend of Zelda: Tears of the Kingdom Map
+[By Alshival's Data Service](https://www.alshival.com/reports/legend-of-zelda-tears-of-the-kingdom/korok-seeds)
 
 ![TOTK Map](store_sample.png)
 
